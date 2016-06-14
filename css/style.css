@@ -1,0 +1,25 @@
+@font-face {
+    font-family: 'YourFontName'; /*a name to be used later*/
+    src: url('../SFNS.ttf'); /*URL to font*/
+}
+
+.bob {
+    font-family: YourFontName;
+}
+
+.you {
+  color:white;
+  font-family: YourFontName;
+
+}
+
+
+.hover {
+  color:#00CCFF;
+
+}
+
+.bored {
+border-style: solid;
+border-color: #00CCFF;
+}

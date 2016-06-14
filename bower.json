@@ -1,0 +1,17 @@
+{
+  "name": "mean-auth",
+  "description": "",
+  "main": "",
+  "authors": [
+    "jlatouf2 <jlatouf2@gmail.com>"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
